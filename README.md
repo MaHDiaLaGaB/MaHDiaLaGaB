@@ -1,74 +1,35 @@
-### Hello，world 👋 This is MaHDi Alagab ✨✨
-  
-- 🔭 Backend Developer and simulation Engineer
-- 🔥 Nuclear Engineer
-- 📫 How to reach me: e.alagab@uot.edu.ly
-- 💬 Ask me about Physics
-- 😄 welcome to my ⭐[StartUp](https://hypervizion.ly)⭐
+<div align="center">
 
-</br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=720&height=56&lines=Mahdi+Alagab;AI+Specialist+and+Software+Developer" alt="Mahdi Alagab" />
 
-![Snake animation](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake.svg)
-<!--
-</br>
+<h3>AI Specialist and Software Developer</h3>
 
- ## Skills
-<div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Mad-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-</div>
-  
-</br>
-
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: ericamalakian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
- -->
- 
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icey-zhang&theme=github)
--->
-
-<!-- <p align="center">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=icey-zhang&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=icey-zhang&hide_border=true" />
+<p>
+  Backend developer in <strong>Python</strong>, <strong>FastAPI</strong>, and <strong>Odoo</strong>.<br>
+  I build AI-driven software pipelines and AI agents.
 </p>
 
-![](https://raw.githubusercontent.com/icey-zhang/icey-zhang/output/github-contribution-grid-snake.svg) -->
+<p>Currently building AI agent pipelines.</p>
 
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,linux,git&theme=dark" alt="Python, FastAPI, PostgreSQL, Docker, Linux, and Git" />
+<br>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 
+<br>
 
+<img height="165" alt="Mahdi Alagab GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaHDiaLaGaB&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_radius=12" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaHDiaLaGaB&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_radius=12" />
 
-<!--
-**icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=MaHDiaLaGaB&theme=dark&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=12" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaHDiaLaGaB/MaHDiaLaGaB/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaHDiaLaGaB/MaHDiaLaGaB/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MaHDiaLaGaB/MaHDiaLaGaB/output/github-contribution-grid-snake.svg" />
+</picture>
 
-
-
+</div>
